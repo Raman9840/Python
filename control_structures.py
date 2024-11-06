@@ -18,4 +18,4 @@ def classify_number(): #function to classify number as positive, negative or zer
         else:
             print('The number is zero')
 
-classify_number()
+classify_number() #calling the function
