@@ -29,13 +29,8 @@ To clone the repository, use the following command:
 ```sh
 git clone https://github.com/Raman9840/Python.git
 
-## Running the Code
 
-To run any of the scripts, navigate to the directory containing the script and use the `python` command followed by the script name. For example, to run the calculator script, use:
-
-```sh
-python [calculator.py]
-
+```
 
 
 
