@@ -20,4 +20,4 @@ print(data_bool and False) #logical operations
 
 #Creating dictionary to store and display these variables by their types as keys
 data_dict={'int':data_int,'float':data_float,'str':data_str,'bool':data_bool}
-print(data_dict)
+print(data_dict) #displaying the dictionary
