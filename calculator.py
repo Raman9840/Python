@@ -35,6 +35,6 @@ def calculator():
         case _:
             print("Invalid choice")
             
-#Calling calculator function
-calculator()
+calculator() #Calling calculator function
+
     
