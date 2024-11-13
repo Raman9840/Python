@@ -22,6 +22,9 @@ A basic to-do list application with the following modules:
 - `todo_operations.py`: Contains functions to add, delete, and view tasks.
 - `utils.py`: Contains utility functions, like clearing the screen.
 
+### 5. temp_converter.py
+A basic program to showcase the use of classes in python
+
 ## Cloning the Repository
 
 To clone the repository, use the following command:
